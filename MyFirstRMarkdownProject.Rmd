@@ -19,6 +19,7 @@ Why learn R?
 - Getting a feel for a different data tool  
 
 ~~is this striked through?~~
+**yes!**
 
 ## R Markdown
 
