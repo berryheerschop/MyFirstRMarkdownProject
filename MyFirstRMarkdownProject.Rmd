@@ -18,6 +18,8 @@ Why learn R?
 - Gaining experience in data science  
 - Getting a feel for a different data tool  
 
+~~is this striked through?~~
+
 ## R Markdown
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
